@@ -1,0 +1,21 @@
+{
+  "name": "Si Fit No Fat",
+  "short_name": "Sifitnofat",
+  "description": "PWA for daily calories consumption",
+  "icons": [
+    {
+      "src": "images/manifest/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/manifest/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#F78D85",
+  "background_color": "#C7D3F7"
+}
